@@ -22,4 +22,10 @@ I'm a full-stack engineer with 17+ years of experience, focused on frontend deve
 - 🧪 Automated Testing (Cypress, Unit, E2E)  
 - 🧠 System Design & Scalable App Development  
 - 🔐 Security-first Development (CSP, Auth, Web3 Wallets)  
-- 📈 Product-Centric Iteration & UX Refinement  
+- 📈 Product-Centric Iteration & UX Refinement
+
+
+## AI & Developer Productivity
+
+ - LLM APIs · AI-assisted development · Prompt engineering · AI-driven debugging · automated code generation · workflow acceleration with different available tools.
+ - Using AI as a co-engineer to accelerate development, automate repetitive tasks, explore solutions faster, and increase engineering throughput.
