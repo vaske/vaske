@@ -25,7 +25,7 @@ I'm a full-stack engineer with 17+ years of experience, focused on frontend deve
 - 📈 Product-Centric Iteration & UX Refinement
 
 
-## AI & Developer Productivity
+## 🤖 AI & Developer Productivity
 
  - LLM APIs · AI-assisted development · Prompt engineering · AI-driven debugging · automated code generation · workflow acceleration with different available tools.
  - Using AI as a co-engineer to accelerate development, automate repetitive tasks, explore solutions faster, and increase engineering throughput.
