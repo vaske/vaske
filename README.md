@@ -36,8 +36,11 @@ I enjoy the **0 → 1 stage** most: turning an idea into a working product, maki
 ## 🤖 AI-Native Engineering
 
 AI has become part of how I build software rather than a separate tool I occasionally use.
+
 I work with **LLM APIs, coding agents, AI-assisted development, prompt/context engineering, automated code generation, debugging, and agentic workflows**.
+
 I use AI as a **co-engineer**: to explore architectures, prototype ideas, implement and review code, generate tests, investigate production issues, and automate repetitive engineering work.
+
 I'm particularly interested in building **AI-native products and developer workflows** where agents augment experienced engineers rather than simply generate code.
 
 ---
@@ -45,5 +48,7 @@ I'm particularly interested in building **AI-native products and developer workf
 ## 🧠 How I Work
 
 I care about **engineering judgment over framework loyalty**.
+
 Choose the simplest architecture that solves the problem. Ship. Measure. Learn. Improve.
+
 After almost two decades in software, I'm still happiest when there's a difficult problem, a blank repository, and something useful to build.
