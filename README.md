@@ -1,31 +1,49 @@
 # 👋 Hi, I'm Milan Vasic
 
-I'm a full-stack engineer with 17+ years of experience, focused on frontend development for the past 9 years. I thrive on building fast, accessible, and elegant interfaces with React, TypeScript, and modern web technologies.
+I'm a **Full-Stack Engineer with 19+ years of experience**, building products across **fintech, payments, blockchain, trading, and SaaS**.
 
-💡 I combine deep technical knowledge with a strong product mindset to deliver high-performance applications—especially in the realms of fintech, blockchain, and trading platforms.
+My background spans frontend, backend, architecture, and product engineering. I spent much of the last decade specializing in modern frontend systems, but today I work comfortably across the stack — from **React and TypeScript interfaces to Node.js/Go services, APIs, databases, and distributed systems**.
+
+I enjoy the **0 → 1 stage** most: turning an idea into a working product, making pragmatic architectural decisions, shipping quickly, and evolving the system as real users and real constraints arrive.
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Languages:** TypeScript, JavaScript, HTML5, CSS3, Sass, PHP, Go, Java
-- **Frontend:** React, Next.js, Vue.js, Tailwind CSS, Styled Components, Cypress, Playwright
-- **Backend:** Node.js, Express, Go, Java, PHP, REST APIs, Firebase, PostgreSQL, MongoDB, MySQL
-- **Tools & Systems:** Vite, TurboRepo, Webpack, ESLint, Git, Docker, CI/CD pipelines
-- **Other:** GraphQL, WebSockets, gRPC, Content Security Policy (CSP), Localization (i18n)
+* **Languages:** TypeScript, JavaScript, Go, PHP, Java, HTML, CSS
+* **Frontend:** React, Next.js, Vue.js, React Native, Tailwind CSS, Styled Components
+* **Backend:** Node.js, Go, REST APIs, PostgreSQL, MongoDB, MySQL, Firebase
+* **Architecture:** Distributed Systems, Event-Driven Architecture, API Design, System Design
+* **Data & Communication:** GraphQL, WebSockets, gRPC
+* **Testing:** Cypress, Playwright, Unit & Integration Testing
+* **Infrastructure & Tooling:** Docker, AWS, Vercel, CI/CD, GitHub Actions, Vite, Turborepo
+* **Security:** Authentication, CSP, PII/Data Protection, Web3 Wallets
 
 ---
 
-## 🚀 Focus Areas
+## 🚀 What I Focus On
 
-- ⚙️ Frontend & Backend Architecture & Performance Optimization  
-- 🧪 Automated Testing (Cypress, Unit, E2E)  
-- 🧠 System Design & Scalable App Development  
-- 🔐 Security-first Development (CSP, Auth, Web3 Wallets)  
-- 📈 Product-Centric Iteration & UX Refinement
+* ⚙️ **Full-Stack Architecture** — designing systems that stay maintainable as products grow
+* 📈 **Product Engineering** — balancing engineering quality, speed, UX, and business needs
+* ⚡ **Performance & Scalability** — from frontend rendering to APIs, databases, and distributed systems
+* 💳 **Fintech & Payments** — payment flows, integrations, trading platforms, and financial products
+* ⛓️ **Blockchain & Web3** — wallets, smart-contract integrations, trading, and on-chain products
+* 🔐 **Security** — authentication, application security, CSP, and protecting sensitive data
+* 🧪 **Engineering Quality** — testing, observability, CI/CD, and pragmatic engineering practices
 
+---
 
-## 🤖 AI & Developer Productivity
+## 🤖 AI-Native Engineering
 
- - LLM APIs · AI-assisted development · Prompt engineering · AI-driven debugging · automated code generation · workflow acceleration with different available tools.
- - Using AI as a co-engineer to accelerate development, automate repetitive tasks, explore solutions faster, and increase engineering throughput.
+AI has become part of how I build software rather than a separate tool I occasionally use.
+I work with **LLM APIs, coding agents, AI-assisted development, prompt/context engineering, automated code generation, debugging, and agentic workflows**.
+I use AI as a **co-engineer**: to explore architectures, prototype ideas, implement and review code, generate tests, investigate production issues, and automate repetitive engineering work.
+I'm particularly interested in building **AI-native products and developer workflows** where agents augment experienced engineers rather than simply generate code.
+
+---
+
+## 🧠 How I Work
+
+I care about **engineering judgment over framework loyalty**.
+Choose the simplest architecture that solves the problem. Ship. Measure. Learn. Improve.
+After almost two decades in software, I'm still happiest when there's a difficult problem, a blank repository, and something useful to build.
